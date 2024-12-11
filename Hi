@@ -1,0 +1,7 @@
+echo „# ergos” >> README.md
+git init
+git dodaj README.md
+git commit -m „first commit”
+gałąź git -M główna
+git remote dodaj pochodzenie https://github.com/Erosqk/ergos.git
+git push -u origin main
